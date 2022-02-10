@@ -12,6 +12,10 @@ body {
 	font-family: 'Atkinson Hyperlegible', "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
+i {
+	color: white
+}
+
 a {
 	color: rgb(0,100,200);
 	text-decoration: none;
